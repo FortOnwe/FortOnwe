@@ -9,8 +9,8 @@ I am a Computer Science Undergrad at Babcock University. I have much interest in
 * 🌍  I'm based in Ibadan, Nigeria.
 * ✉️  You can contact me at [fortonwe@gmail.com](mailto:fortonwe@gmail.com)
 * 🧠  I'm learning Data Science using Python.
-* 🤝  I'm open to collaborating on Data Analysis and Python Development projects.
-* ⚡  I'm really passionate about Finance, Technology and World Affairs.
+* 🤝  I'm open to collaborating on Data Analytics and Python Development projects.
+* ⚡  I'm passionate about Finance, Technology and World Affairs.
 
 <a href="https://www.twitter.com/OnweFortune" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/OnweFortune?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
